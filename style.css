@@ -1,0 +1,28 @@
+body {
+    background-color: yellow;
+}
+main header h1 {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+main header a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    text-align: right;
+}
+body footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+main div.Car-pics {
+    text-align: center;
+    margin: 20px;
+}
+main div.Car-pics img {
+    width: 40%;
+    margin: 10px;
+}
