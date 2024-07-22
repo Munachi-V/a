@@ -26,3 +26,6 @@ main div.Car-pics img {
     width: 40%;
     margin: 10px;
 }
+main div.More-info {
+    font-family: 'Courier New', Courier, monospace;
+}
